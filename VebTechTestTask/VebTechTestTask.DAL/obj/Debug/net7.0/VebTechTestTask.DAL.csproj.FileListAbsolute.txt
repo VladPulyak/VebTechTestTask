@@ -1,0 +1,14 @@
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\bin\Debug\net7.0\VebTechTestTask.DAL.deps.json
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\bin\Debug\net7.0\VebTechTestTask.DAL.runtimeconfig.json
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\bin\Debug\net7.0\VebTechTestTask.DAL.dll
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\bin\Debug\net7.0\VebTechTestTask.DAL.pdb
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.csproj.AssemblyReference.cache
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.AssemblyInfoInputs.cache
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.AssemblyInfo.cs
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.csproj.CoreCompileInputs.cache
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.dll
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\refint\VebTechTestTask.DAL.dll
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.pdb
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\VebTechTestTask.DAL.genruntimeconfig.cache
+D:\.NET projects\VebTechTestTask\VebTechTestTask\VebTechTestTask.DAL\obj\Debug\net7.0\ref\VebTechTestTask.DAL.dll
